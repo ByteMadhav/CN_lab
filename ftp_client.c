@@ -53,5 +53,8 @@ void main(){
 	fclose(fp);
 	close(serv_sock);
 	
-	
+
+
+void main(){
+	printf("Hello World");
 }
