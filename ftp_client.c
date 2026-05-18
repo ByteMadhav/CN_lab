@@ -54,7 +54,4 @@ void main(){
 	close(serv_sock);
 	
 
-
-void main(){
-	printf("Hello World");
 }
